@@ -15,4 +15,5 @@
 ![](prediction.JPG)
 
 *Red: Test data
+
 *Green: Trained data
